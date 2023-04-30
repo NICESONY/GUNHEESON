@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sony%20GitHub&animation=twinkling&fontize=35&fontAlognY=40&fontAlign=50&height=250)
 
-<h1 align="center">Hi 👋, I'm son</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
